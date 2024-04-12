@@ -7,17 +7,17 @@
 
 </p>
 
-### 🍰 [DalKom.shop](https://dalkom.shop) :clapper: [Demo](https://youtu.be/JiH_-ZU2D8Q?si=hlXKrv7ETwXxyJmk) :microphone: [Presentation](https://youtu.be/JE-EtwOLTw4?si=AyP1i8Ta6DoNsTc0) :chart_with_upwards_trend: [Test Result](https://junit.dalkom.shop)
+###  :computer: [레포지토리](https://github.com/KEA-DoKebi) :clapper: [Demo](https://youtu.be/JiH_-ZU2D8Q?si=hlXKrv7ETwXxyJmk) :microphone: [Presentation](https://youtu.be/JE-EtwOLTw4?si=AyP1i8Ta6DoNsTc0) :chart_with_upwards_trend: [Test Result](https://junit.dalkom.shop)
 <br>
 
 ## 프로젝트 소개
 
 ### DALKOM SHOP은 다음카카오(DKT)의 사내 몰
-    - DALKOM SHOP은 DKT 사내 직원들을 위한 전용 사내 몰입니다.
+- DalKom.Shop은 DKT 직원들을 위한 전용 쇼핑몰입니다.
 
-    - 회사 내부에서만 접근 가능하며, 각 직원은 개인 계정으로 로그인하여 혜택 및 제품 구매가 가능합니다.
+- 직원만 가입할 수 있으며, 각 직원은 개인 계정으로 로그인하여 제품 구매가 가능합니다.
 
-    - 사내몰은 회사의 구매 정책에 따라 운영되며, 재고 관리, 결제 프로세스, 사용 권한 제어 등이 구축되어 있습니다.
+- 회사에서 제공하는 마일리지를 활용하여 다양한 상품 및 혜택을 이용할 수 있습니다.
 
 
     
@@ -32,8 +32,8 @@
 </p>
 
 ## 목차
-- [아키텍처](#아키텍처)
 - [핵심 기능](#핵심-기능)
+- [아키텍처](#아키텍처)
 - [화면 구성](#화면-구성)
 - [주요 담당 업무](#주요-담당-업무)
 - [기술 스택](#기술-스택)
@@ -42,13 +42,14 @@
 
 <br>
 
+## 핵심 기능
+<img width="1396" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/b0c2350e-9bac-43df-be87-1830f6231aa8">
+<br>
+
 ## 아키텍처
 ![DoKebi 종료 보고서 (3)](https://github.com/minjun0707/readme/assets/75360915/4e00fe70-c87b-48d0-b263-6f675fbc1e70)
 
-
-
-## 핵심 기능
-<img width="1396" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/b0c2350e-9bac-43df-be87-1830f6231aa8">
+<br>
 
 ## 화면 구성
 
@@ -195,37 +196,6 @@
 
 
 
-## 아키텍처
 
-<p align="center">
-  <br>
-   
- ![readmepng](https://github.com/KEA-DoKebi/.github/assets/75898031/4cbc5471-103b-4a51-9e4b-e4a20633663c)
-
-
-
-  <br>
-</p>
 
 <br>
-
-
-<p align="center">
-  <br>
-    
-  <br>
-</p>
-
-<br>
-
-
-<p align="center">
-  <br>
-    
-  <br>
-</p>
-
-<br>
-
-## 데모 영상
-[보러가기](https://youtu.be/JiH_-ZU2D8Q?si=hlXKrv7ETwXxyJmk)
