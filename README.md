@@ -10,7 +10,7 @@
 ###  :computer: [레포지토리](https://github.com/KEA-DoKebi) :clapper: [Demo](https://youtu.be/JiH_-ZU2D8Q?si=hlXKrv7ETwXxyJmk) :microphone: [Presentation](https://youtu.be/JE-EtwOLTw4?si=AyP1i8Ta6DoNsTc0) :chart_with_upwards_trend: [Test Result](https://junit.dalkom.shop)
 <br>
 
-## 프로젝트 소개
+## :red_car: 프로젝트 소개
 
 ### DALKOM SHOP은 다음카카오(DKT)의 사내 몰
 - DalKom.Shop은 DKT 직원들을 위한 전용 쇼핑몰입니다.
@@ -42,16 +42,16 @@
 
 <br>
 
-## 핵심 기능
+## :red_car: 핵심 기능
 <img width="1396" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/b0c2350e-9bac-43df-be87-1830f6231aa8">
 <br>
 
-## 아키텍처
+## :red_car: 아키텍처
 ![DoKebi 종료 보고서 (3)](https://github.com/minjun0707/readme/assets/75360915/4e00fe70-c87b-48d0-b263-6f675fbc1e70)
 
 <br>
 
-## 화면 구성
+## :red_car: 화면 구성
 
 
 <table>
@@ -110,7 +110,7 @@
 
 
 
-## 주요 담당 업무
+## :red_car: 주요 담당 업무
 
 ### 인프라
 <br>
@@ -151,7 +151,7 @@
 <img width="1380" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/17033053-ef5d-42bc-a492-97e6f41fefc4">
 
 
-## 팀원
+## :red_car: 팀원
 
 | Name | Student Number | University | Contributed Parts | Github Link |
 | :---: | :---: | :---: | :---: | :---: |
@@ -168,7 +168,7 @@
 
 <br>
 
-## 프로젝트 기간 및 일정
+## :red_car: 프로젝트 기간 및 일정
 
 | 일정               | 프로세스 단계   | 작업 내역                   | 산출물  |
 | :---------------: | :------------: | :------------------------: | :-----: |
