@@ -1,4 +1,4 @@
-<img width="1416" alt="image" src="https://github.com/minjun0707/dalkom.shop/assets/75360915/58e72311-ca37-4df2-b77d-dc74f52cefa0"># <img width="40px" height="auto" src="https://avatars.githubusercontent.com/u/155041511?s=200&v=4"> <span style="font-size: 100px font-weight: bold">Dalkom Shop</span>
+# <img width="40px" height="auto" src="https://avatars.githubusercontent.com/u/155041511?s=200&v=4"> <span style="font-size: 100px font-weight: bold">Dalkom Shop</span>
 
 <p align="center">
   <br>
@@ -32,17 +32,17 @@
 </p>
 
 ## :red_car: 목차
-- [핵심 기능](#핵심-기능)
-- [아키텍처](#아키텍처)
-- [화면 구성](#화면-구성)
-- [주요 담당 업무](#주요-담당-업무)
-- [기술 스택](#기술-스택)
-- [팀원](#팀원)
-- [프로젝트 일정](#프로젝트-기간-및-일정)
+- [핵심 기능](핵심-기능)
+- [아키텍처](아키텍처)
+- [화면 구성](화면-구성)
+- [주요 담당 업무](주요-담당-업무)
+- [기술 스택](기술-스택)
+- [팀원](팀원)
+- [프로젝트 일정](프로젝트-기간-및-일정)
 
 <br>
 
-## :red_car: 핵심 기능
+## :red_car:핵심 기능
 <img width="1396" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/b0c2350e-9bac-43df-be87-1830f6231aa8">
 <br>
 
@@ -187,7 +187,7 @@
 <br>
 
 
-## 기술 스택
+## :red_car: 기술 스택
 
 
  ![진짜 최종](https://github.com/KEA-DoKebi/.github/assets/75898031/5b917a1c-bcca-410e-bf9d-c42e31091926)
