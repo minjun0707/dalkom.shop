@@ -31,27 +31,27 @@
 
 </p>
 
-## :red_car: 목차
-- [핵심 기능](핵심-기능)
-- [아키텍처](아키텍처)
-- [화면 구성](화면-구성)
-- [주요 담당 업무](주요-담당-업무)
-- [기술 스택](기술-스택)
-- [팀원](팀원)
-- [프로젝트 일정](프로젝트-기간-및-일정)
+:red_car: 목차
+- [핵심 기능](#핵심-기능)
+- [아키텍처](#아키텍처)
+- [화면 구성](#화면-구성)
+- [주요 담당 업무](#주요-담당-업무)
+- [기술 스택](#기술-스택)
+- [팀원](#팀원)
+- [프로젝트 일정](#프로젝트-기간-및-일정)
 
 <br>
 
-## :red_car:핵심 기능
+:red_car: 핵심 기능
 <img width="1396" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/b0c2350e-9bac-43df-be87-1830f6231aa8">
 <br>
 
-## :red_car: 아키텍처
+:red_car: ## 아키텍처
 ![DoKebi 종료 보고서 (3)](https://github.com/minjun0707/readme/assets/75360915/4e00fe70-c87b-48d0-b263-6f675fbc1e70)
 
 <br>
 
-## :red_car: 화면 구성
+:red_car: ## 화면 구성
 
 
 <table>
@@ -110,7 +110,7 @@
 
 
 
-## :red_car: 주요 담당 업무
+:red_car: ## 주요 담당 업무
 
 
 
@@ -155,7 +155,7 @@
 <img width="1380" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/17033053-ef5d-42bc-a492-97e6f41fefc4">
 
 
-## :red_car: 팀원
+:red_car: ## 팀원
 
 | Name | Student Number | University | Contributed Parts | Github Link |
 | :---: | :---: | :---: | :---: | :---: |
@@ -172,7 +172,7 @@
 
 <br>
 
-## :red_car: 프로젝트 기간 및 일정
+:red_car: ## 프로젝트 기간 및 일정
 
 | 일정               | 프로세스 단계   | 작업 내역                   | 산출물  |
 | :---------------: | :------------: | :------------------------: | :-----: |
@@ -187,7 +187,7 @@
 <br>
 
 
-## :red_car: 기술 스택
+:red_car: ## 기술 스택
 
 
  ![진짜 최종](https://github.com/KEA-DoKebi/.github/assets/75898031/5b917a1c-bcca-410e-bf9d-c42e31091926)
