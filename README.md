@@ -59,12 +59,12 @@
     <td>
       <h3> 1. 로그인 </h3>
       <br>
-      <img src="https://github.com/minjun0707/readme/assets/75360915/a6275335-f5f0-4691-a9df-f5eaea32403f" width="500">
+      <img src="https://github.com/minjun0707/readme/assets/75360915/a6275335-f5f0-4691-a9df-f5eaea32403f">
     </td>
     <td>
       <h3> 2. 상품 조회 </h3>
       <br>
-      <img src="https://github.com/minjun0707/readme/assets/75360915/c4b6c9eb-0f0a-4eeb-916b-da305665dc47" width="500">
+      <img src="https://github.com/minjun0707/readme/assets/75360915/c4b6c9eb-0f0a-4eeb-916b-da305665dc47">
     </td>
   </tr>
 
@@ -72,12 +72,12 @@
     <td>
       <h3> 3. 상품 비교 </h3>
       <br>
-      <img src="https://github.com/minjun0707/readme/assets/75360915/a81deb99-c017-4fc3-acfb-98d65d1bb2da" width="500">
+      <img src="https://github.com/minjun0707/readme/assets/75360915/a81deb99-c017-4fc3-acfb-98d65d1bb2da">
     </td>
     <td>
       <h3> 4. 상품 검색 </h3>
       <br>
-      <img src="https://github.com/minjun0707/readme/assets/75360915/d5acfa1f-a838-4e81-b1eb-5aa90ac002e6" width="500">
+      <img src="https://github.com/minjun0707/readme/assets/75360915/d5acfa1f-a838-4e81-b1eb-5aa90ac002e6">
     </td>
   </tr>
 
@@ -86,12 +86,12 @@
     <td>
       <h3> 5. 마일리지 충전 </h3>
       <br>
-      <img src="https://github.com/minjun0707/readme/assets/75360915/30e6650b-ff71-4062-98c8-af34b425c079" width="500">
+      <img src="https://github.com/minjun0707/readme/assets/75360915/30e6650b-ff71-4062-98c8-af34b425c079">
     </td>
     <td>
       <h3> 6. 관리자 대시보드 </h3>
       <br>
-      <img src="https://github.com/minjun0707/readme/assets/75360915/f97f52b2-3765-4b23-be72-f9baf8eb5451" width="500">
+      <img src="https://github.com/minjun0707/readme/assets/75360915/f97f52b2-3765-4b23-be72-f9baf8eb5451">
     </td>
   </tr>
 
@@ -100,7 +100,7 @@
     <td>
       <h3> 7. 문의 대응 </h3>
       <br>
-      <img src="https://github.com/minjun0707/readme/assets/75360915/ee5581b9-36f7-45e4-be49-7c2259528772" width="500">
+      <img src="https://github.com/minjun0707/readme/assets/75360915/ee5581b9-36f7-45e4-be49-7c2259528772">
     </td>
   </tr>
 
