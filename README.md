@@ -145,13 +145,12 @@
 ### 테스트
 <br>
 <img width="1000" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/ee953dc7-1213-4dcf-96f2-83bd4b3d3067">
-<br>
-<img width="1000" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/cbaef3c2-d5ff-4c95-9c17-c535fe4a1823">
-<br>
 
 ### 기타
 <br>
-<img width="1380" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/17033053-ef5d-42bc-a492-97e6f41fefc4">
+<img width="1000" alt="image" src="https://github.com/minjun0707/dalkom.shop/assets/75360915/3997b71c-8758-41d6-82e9-09e440980e40">
+<br>
+<img width="1000" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/17033053-ef5d-42bc-a492-97e6f41fefc4">
 
 
 ## :red_car: 팀원
