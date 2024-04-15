@@ -119,11 +119,12 @@
 <br>
 <img width="1000" alt="image" src="https://github.com/minjun0707/dalkom.shop/assets/75360915/06138598-3ea6-4969-9f31-60149b557a62">
 <br>
-<img width="1000" alt="image" src="https://github.com/minjun0707/dalkom.shop/assets/75360915/7f53a274-5c14-4eaa-9adc-98f6913dcc29">
+<img width="1000" alt="image" src="https://github.com/minjun0707/dalkom.shop/assets/75360915/b21a39d4-63e1-410e-b312-15fade5a1b2d">
 <br>
-<img width="1406" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/7ab9decf-f63c-4a76-8f45-aafdb24dc02b">
+<img width="1000" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/7ab9decf-f63c-4a76-8f45-aafdb24dc02b">
 <br>
-<img width="1000" alt="image" src="https://github.com/minjun0707/dalkom.shop/assets/75360915/b4bfd9e1-f7d6-475e-9094-0d7153b3681c">
+<img width="1000" alt="image" src="https://github.com/minjun0707/dalkom.shop/assets/75360915/e4f5320d-0a51-485e-9eda-290fc7d3f96f">
+
 <br>
 
 ### CI/ CD
@@ -149,8 +150,6 @@
 <br>
 
 ### 기타
-<br>
-<img width="1000" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/da9746ea-ab64-4c35-be28-9ac6e8072689">
 <br>
 <img width="1380" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/17033053-ef5d-42bc-a492-97e6f41fefc4">
 
